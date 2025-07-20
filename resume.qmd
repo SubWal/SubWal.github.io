@@ -13,74 +13,54 @@ Computer Science Student.
 
 ## Currently
 
-Standing on the shoulders of giants
+Currently Computer Science Student in BYU-Idaho. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Machine learning algorithms (Decision Trees, Random Forests, Gradient Boosting, Neural Networks)
+- Data preprocessing and feature engineering with `pandas` and `scikit-learn`
+- Deep learning with TensorFlow and Keras
+- Graph algorithms and data structures (Dijkstra’s, Bellman-Ford, Huffman Encoding, Convex Hull)
+- Web development using React, JavaScript, HTML, and CSS
+- C# algorithm implementation with NUnit unit testing
+- Interactive visualizations using Lets-Plot and Matplotlib
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Predictive modeling and model interpretability  
+- Explainable AI and humanization of machine-generated content  
+- Advanced data visualization techniques  
+- Natural language processing and text generation  
+- Optimization of graph and combinatorial algorithms  
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2021 – Present`  
+**Bachelor of Science in Computer Science**, BYU-Idaho 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- `2022` — **Merit Scholarship**, BYU-Idaho 
+- `2015` — **Second Place in Interschool Soccer Tournamet**, Aradhana Academy
+- `2015` — **First Place In Interschool Speling Bee Contest**, Aradhana Academy
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- “Optimizing Housing Price Predictions with Ensemble Methods”*, Undergraduate Journal of Data Science, 2025  
+- “Comparing Shortest-Path Algorithms in C#”*, GitHub Open Source Contributions, 2024  
+- “Humanizing AI-Generated Text: Techniques and Trade-Offs”*, personal technical blog, 2025  
 
 
 ## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Created pipelines and cleaned datasets using `pandas`  
+- Implemented classic algorithms in C# with full NUnit testing  
+- Developed plots and dashboards using Lets-Plot and Matplotlib  
+- Contributed to GitHub repositories and collaborated on open-source projects  
 
 
 
