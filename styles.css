@@ -1,1 +1,75 @@
 /* css styles */
+/* ---- Resume Styles for resume.qmd ---- */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto+Slab:wght@700&display=swap');
+
+.resume-container {
+  max-width: 800px;
+  margin: 3rem auto;
+  background: #ffffff;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+}
+
+.resume-container h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.75rem;
+  color: #2a7ae2;
+  border-bottom: 2px solid #e1e8ed;
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.resume-container p {
+  font-size: 1rem;
+  margin: 0.5rem 0 1.5rem;
+  line-height: 1.6;
+}
+
+.resume-container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.resume-container ul li {
+  position: relative;
+  padding-left: 1.2em;
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+}
+
+.resume-container ul li::before {
+  content: '▹';
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #2a7ae2;
+  font-weight: bold;
+}
+
+.resume-container code {
+  background: #f1f5f8;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95em;
+}
+
+@media (max-width: 600px) {
+  .resume-container {
+    padding: 1.5rem;
+    margin: 2rem 1rem;
+  }
+  .resume-container h2 {
+    font-size: 1.5rem;
+  }
+  .resume-container ul li {
+    font-size: 0.95rem;
+  }
+}
